@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🌱 I’m currently learning **React Native** to enhance my skills.
 - 👯 I’m looking to collaborate on **open source projects** related to React Native.
 - 💬 Ask me about **JavaScript, Python, React, Next.js, TypeScript, and React Native**.
-- 📫 How to reach me: [your email address](mailto:abdulazeezfaruq43@gmail.com)
+- 📫 How to reach me: abdulazzezfaruq43@gmail.com(mailto:abdulazeezfaruq43@gmail.com)
 - ⚡ Fun fact: I love to explore new technologies and solve challenging problems.
 
 ## 🛠️ Technologies & Tools
