@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React-Native](https://img.shields.io/badge/-React-333333?style=flat&logo=reactnative)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
